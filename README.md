@@ -74,6 +74,10 @@ Demo credentials are set inside the `.pkt` file for lab use only.
 - `docs/presentation.pdf`: final presentation
 - `tests/`: validation screenshots
 
+## How it was built
+
+Designed and built in Cisco Packet Tracer, assisted by **Claude**, an AI assistant (configurations and documentation).
+
 ## Team
 
 | Member | Role |
